@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hoj-springboot/DataBackup/DataBackup.iml" filepath="$PROJECT_DIR$/hoj-springboot/DataBackup/DataBackup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IntelligenceCoding-master.iml" filepath="$PROJECT_DIR$/.idea/IntelligenceCoding-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoj-springboot/JudgeServer/JudgeServer.iml" filepath="$PROJECT_DIR$/hoj-springboot/JudgeServer/JudgeServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoj-springboot/api/api.iml" filepath="$PROJECT_DIR$/hoj-springboot/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hoj-springboot/hoj-springboot.iml" filepath="$PROJECT_DIR$/hoj-springboot/hoj-springboot.iml" />
+    </modules>
+  </component>
+</project>
